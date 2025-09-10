@@ -13,9 +13,9 @@ Atualmente, a cifra de César é **extremamente fraca**, pois há um número lim
 A cifra de César foi extremamente usada na Roma antiga, na época em que a cifra rebeu seu nome por causa de Júlio César, usando-a para se comunicar de forma segura.
 
 ## Requsitos
-- Node.js (>= 14)
-- VSCode
-- Extensão VSCode: REST Client
+- [Node.js](https://nodejs.org/en)
+- [VSCode](https://code.visualstudio.com/)
+- Extensão VSCode: [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
 ## Instalação
 ```bash
