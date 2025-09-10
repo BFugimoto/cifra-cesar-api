@@ -39,7 +39,7 @@ POST http://localhost:3000/api/criptografar
 Content-Type: application/json
 {
     "texto": "Texto a ser criptografado",
-    "chave": "3"
+    "chave": 3
 }
 ```
 
@@ -49,7 +49,7 @@ Content-Type: application/json
 
 {
     "texto": "Texto a ser descriptografado",
-    "chave": "3"
+    "chave": 3
 }
 ```
 
