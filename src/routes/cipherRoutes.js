@@ -6,7 +6,7 @@ router.get('/', (req, res) => {
     res.send({ message: 'Servidor rodando.'});
 });
 
-router.post('/api/criptografar', criptografar);
-router.post('/api/descriptografar', descriptografar);
+router.post('/criptografar', criptografar);
+router.post('/descriptografar', descriptografar);
 
 module.exports = router;
