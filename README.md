@@ -1,7 +1,5 @@
 # API: Cifra de César
 
-###
-
 ## O que é a Cifra de César?
 A cifra de César é um método de criptografia de **substitução** simples criada para codificar mensagens.
 
@@ -13,8 +11,6 @@ Atualmente, a cifra de César é **extremamente fraca**, pois há um número lim
 
 ## Uso histórico
 A cifra de César foi extremamente usada na Roma antiga, na época em que a cifra rebeu seu nome por causa de Júlio César, usando-a para se comunicar de forma segura.
-
-###
 
 ## Requsitos
 - Node.js (>= 14)
@@ -52,8 +48,6 @@ Content-Type: application/json
     "chave": 3
 }
 ```
-
-###
 
 ## Referências
 - Curso: Sistemas para Internet
